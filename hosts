@@ -3,44 +3,10 @@
 # Version: 2411141049
 # Blocked: 20,841 domains
 # Please report any ads or problems on GitHub
-# Homepage: https://bigdargon.github.io/hostsVN/
-# GitHub: https://github.com/bigdargon/hostsVN
-# Report issues: https://github.com/bigdargon/hostsVN/issues
-# Download: https://github.com/bigdargon/hostsVN/raw/master/hosts
 #
 # =====================================================
 
 # --- Group block ---
-#[apple]
-0.0.0.0 api-adservices.apple.com
-0.0.0.0 books-analytics-events.apple.com
-0.0.0.0 metrics.icloud.com
-0.0.0.0 metrics.mzstatic.com
-0.0.0.0 notes-analytics-events.apple.com
-0.0.0.0 securemetrics.apple.com
-0.0.0.0 stocks-analytics-events.apple.com
-0.0.0.0 supportmetrics.apple.com
-0.0.0.0 weather-analytics-events.apple.com
-#[iadsdk.apple.com]
-0.0.0.0 iadsdk.apple.com
-0.0.0.0 ca.iadsdk.apple.com
-0.0.0.0 cf.iadsdk.apple.com
-0.0.0.0 cs.iadsdk.apple.com
-0.0.0.0 news.iadsdk.apple.com
-0.0.0.0 su.iadsdk.apple.com
-0.0.0.0 tr.iadsdk.apple.com
-0.0.0.0 ut.iadsdk.apple.com
-#[iad.apple.com]
-0.0.0.0 apps.iad.apple.com
-0.0.0.0 blueprints.iad.apple.com
-0.0.0.0 ccportal.iad.apple.com
-0.0.0.0 cmws.iad.apple.com
-0.0.0.0 display-apps-ui-soak.iad.apple.com
-0.0.0.0 display-apps-ui.iad.apple.com
-0.0.0.0 iad.apple.com
-0.0.0.0 iadfeed.iad.apple.com
-0.0.0.0 iadworkbench-soak.iad.apple.com
-0.0.0.0 stg-cmws.iad.apple.com
 #[doubleclick.net]
 0.0.0.0 doubleclick.net
 0.0.0.0 accounts.doubleclick.net
@@ -173,7 +139,6 @@
 0.0.0.0 androidtvwatsonfe-pa.googleapis.com
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 clouderrorreporting.googleapis.com
-0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 ogads-pa.googleapis.com
 #[l.google.com]
@@ -205,9 +170,6 @@
 0.0.0.0 googletagmanager-cn.com
 0.0.0.0 googletagservices-cn.com
 0.0.0.0 googlevads-cn.com
-#[app-measurement.com]
-0.0.0.0 app-measurement.com
-0.0.0.0 region1.app-measurement.com
 #[gvt2.com]
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
@@ -21786,7 +21748,6 @@
 0.0.0.0 api.wipmania.com
 0.0.0.0 api2.poperblocker.com
 0.0.0.0 apolloprogram.io
-0.0.0.0 app-analytics-services.com
 0.0.0.0 app.posthog.com
 0.0.0.0 applog.camera360.com
 0.0.0.0 appres.camera360.com
